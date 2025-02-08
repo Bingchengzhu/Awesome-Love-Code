@@ -61,7 +61,7 @@ function I() {
 }
 
 function J() {
-    modal('行，我们去民政局登记吧', function() {
+    modal('行，我们什么去民政局登记！', function() {
         fireworks();
     });
 }
